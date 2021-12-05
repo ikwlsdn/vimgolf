@@ -31,10 +31,29 @@
   
   ZZ : :wq와 동일한 기능(버튼수가 더 적음)
   
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68582617/144746759-6c180c33-b82b-41a8-ae20-6f7dfe4ba623.gif)
+  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/68582617/144748060-d37c7bf5-4b9b-43a7-bfd5-9d518f7bff80.gif)
   
   ---
   ### 3) Satisfy the go linter
+  입력 : 4GywO// <Esc>pATODO<Esc>byw<Down>o// Debug <Esc>pZZ
+  
+  4G : 4번째 라인으로 이동
+  
+  yw : Version 단어를 복사
+  
+  O : 현재 위치한 라인의 윗라인부터 편집모드
+  
+  p : 복사해둔 Version을 붙여넣기
+  
+  A : 다음 칸부터 편집모드 사용
+  
+  b: TODO의 제일 뒤로 이동
+  
+  yw : TODO를 복사
+  
+  o : 현재 위치한 라인의 아래라인부터 편집모드
+  
+  p : TODO를 
   
   ---
   ### 4) Plotting some variables in python
