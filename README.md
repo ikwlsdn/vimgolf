@@ -19,7 +19,7 @@
   ---
 
   ### 2) simple replacements
-  입력 : %s/sublime\|emacs/vim/g<CR>ZZ
+  입력 : %s/sublime\\|emacs/vim/g<CR>ZZ
   
   %s : 치환 명령어
   
