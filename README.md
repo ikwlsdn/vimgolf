@@ -15,4 +15,15 @@
   
   https://user-images.githubusercontent.com/68582617/144744092-38f7fae4-9633-45a3-baa6-0a27ed5f6ddb.mp4
 
+  ---
+
+  ### - simple replacements
   
+  ---
+  ### - Satisfy the go linter
+  
+  ---
+  ### - Plotting some variables in python
+  
+  ---
+  ### - Python dataclasses
