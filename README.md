@@ -58,7 +58,23 @@
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68582617/144748316-479224ea-f7aa-4a5b-83b0-5a0baa6940e8.gif)
   ---
   ### 4) Plotting some variables in python
+  입력 : %s/y1/abs(y1)/g<CR>3Gfa<C-A><Down><C-A><C-A><Down><C-A><C-A><C-A>W<C-A><C-A><C-A><Up><C-A><C-A><Up><C-A>Fkrb<Down>rr<Down>rgZZ
   
+  %s/y1/abs(y1)/g : y1을 abs(y1)로 치환
+  
+  3G : 3번째 라인으로 이동
+  
+  fa : a를 찾아 이동
+  
+  컨트롤 a : 숫자를 하나씩 늘린다 아래로 내려가면서 늘려주었음
+  
+  W : 단어 단위 앞으로 이동
+  
+  이후 위로 올라가면 숫자를 늘려주었음
+  
+  Fk : 뒤쪽에서 k를 찾아 이동
+  
+  r : 한글자만 치환 할때 이용 아래로 내려가며 한글자씩 치환하였음
   ---
   ### 5) Python dataclasses
   입력 : 5G4yyGP<Up>5J0WW<Right><Del><Del>WdwWdwWdwWdwi<BS>"<Esc>:.s/: /,/g<CR>ZZ
