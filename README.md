@@ -81,5 +81,6 @@
   
   :.s/: /,/g : 현재 위치한 라인만 : 를 ,로 치환
   
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68582617/144750512-cdd03ecb-3927-4980-bc1a-7b254eea8b9c.gif)
   
   
