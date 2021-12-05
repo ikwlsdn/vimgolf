@@ -53,8 +53,9 @@
   
   o : 현재 위치한 라인의 아래라인부터 편집모드
   
-  p : TODO를 
+  p : TODO를 붙여넣기
   
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68582617/144748316-479224ea-f7aa-4a5b-83b0-5a0baa6940e8.gif)
   ---
   ### 4) Plotting some variables in python
   
