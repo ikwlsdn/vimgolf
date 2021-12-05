@@ -1,6 +1,6 @@
 # vimgolf
 
-### - Add quotes to ansible playbook
+### 1) Add quotes to ansible playbook
 입력 : GWi"<End>"<Esc>ZZ
 
   G : 마지막 줄로 이동
@@ -17,13 +17,13 @@
 
   ---
 
-  ### - simple replacements
+  ### 2) simple replacements
   
   ---
-  ### - Satisfy the go linter
+  ### 3) Satisfy the go linter
   
   ---
-  ### - Plotting some variables in python
+  ### 4) Plotting some variables in python
   
   ---
-  ### - Python dataclasses
+  ### 5) Python dataclasses
