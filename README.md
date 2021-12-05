@@ -13,7 +13,8 @@
     
   ZZ : :wq와 동일한 기능(버튼수가 더 적음)
   
-  https://user-images.githubusercontent.com/68582617/144744092-38f7fae4-9633-45a3-baa6-0a27ed5f6ddb.mp4
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68582617/144746789-05040f91-ab1b-4051-a251-4fdff0d2f24b.gif)
+
 
   ---
 
