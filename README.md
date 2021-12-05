@@ -23,7 +23,7 @@
   
   %s : 치환 명령어
   
-  /sublime\|emacs : sublime 또는 eamcs 문자열
+  /sublime\\|emacs : sublime 또는 eamcs 문자열
   
   /vim : vim문자열로 치환
   
