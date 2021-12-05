@@ -75,6 +75,11 @@
   Fk : 뒤쪽에서 k를 찾아 이동
   
   r : 한글자만 치환 할때 이용 아래로 내려가며 한글자씩 치환하였음
+  
+  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/68582617/144751555-d260f965-ede3-4701-bc34-3b4cdc599497.gif)
+  
+  내용이 틀린게 없는데 에러가 나는 이유를 모르겠습니다.
+  
   ---
   ### 5) Python dataclasses
   입력 : 5G4yyGP<Up>5J0WW<Right><Del><Del>WdwWdwWdwWdwi<BS>"<Esc>:.s/: /,/g<CR>ZZ
