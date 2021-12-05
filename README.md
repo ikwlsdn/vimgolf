@@ -30,6 +30,8 @@
   
   ZZ : :wq와 동일한 기능(버튼수가 더 적음)
   
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68582617/144746759-6c180c33-b82b-41a8-ae20-6f7dfe4ba623.gif)
+  
   ---
   ### 3) Satisfy the go linter
   
